@@ -32,6 +32,8 @@ public class AircraftEager {
 
 }
 
+//LAZY INSTANCE
+
 
 class Client{
     public static void main(String[] args) {
